@@ -1,0 +1,22 @@
+{
+    "name": "England Soccer",
+    "short_name": "England",
+    "description": "Find tha latest matches of England Football now!",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#4527a0",
+    "theme_color": "#4527a0",
+    "icons": [
+        {
+            "src": "img/icon192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "img/icon512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "gcm_sender_id": "237545889669"
+}
