@@ -27,7 +27,11 @@ workbox.precaching.precacheAndRoute([
     { url: '/img/icon192.png', revision: '1' },
     { url: '/img/custom_icon.png', revision: '1' },
     { url: '/manifest.json', revision: '1' },
-]);
+],
+    {
+        ignoreUrlParametersMatching: [/.*/]
+    }
+);
 
 workbox.routing.registerRoute(
   new RegExp('/pages/'),

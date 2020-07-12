@@ -13,10 +13,10 @@ webPush.setVapidDetails(
 )
 
 const pushSubscription = {
-   "endpoint": "https://sg2p.notify.windows.com/w/?token=BQYAAACPKeaG5Hjy1jX57TXUAWetBN6deovZbNW%2bs9uxbaYoAl6TfHIo54Z0e3LCm9iqMAt2qhqfXi6vo%2bA5lYcxad6sO6NmCS69%2fT2hwdmVD%2fWYU9lxs7Pre32Bgc9zcAgM4yKmVk3LRxMFoB%2bepRyIBqHyNvygA8iDle4DWW336ttCV%2bWq9c%2b0jOCj10RKO%2bzl7T5kmjg7Cw6pnBByhWkRIgIzH6OW72A8Ljq7VP5DyhFdOhYve%2bQ2paI7rYlOSpBl3ghxaEPV9g1GSxPbO1x05FqASw4ZAGq2h%2bHvDDfEatecKtSmOszTaw62oaiJhV9T4Ag%3d",
+   "endpoint": "https://sg2p.notify.windows.com/w/?token=BQYAAACsDyxqMeYD36CLGP7MrU0c1zkzc28FBY%2bSfT5uJMDBYrLgVIyjQ3ap5qBLHtrdp84%2fKDCPFGI2mnSC5EsDy2f3u92Svt81L7jrEzPI1oNHO8sJZbyhkcoF%2fGb%2bvOH51tv8qguXST39iCeVRN9xMjn%2fyYRxwjccerI%2fxOEEZHz%2bsiQIoybPoy4BTECDqDlaElPajMdPB5Rp2YBNHz4SE1N3v9gV%2fqmx6kDq%2b%2fP06%2fuRncIDVXR87mEIPDf819mTJ18Wxkbu1G8mJvZQr9DAH8%2bM%2fUHLedL36rnoIU9xPGftchqkMMToIBolE2VG7VXK1Ag%3d",
    "keys": {
-       "p256dh": "BNDURjYFx86JZUw1U75TAj2mnxC4N6tnhZ5vykkl7PsSZP5Wm/xdZ6gQDm39v2P9QOMkp0x7otq78pLBrFrZ4BE=",
-       "auth": "MairIkKlqmZsAuTmtIgfmA=="
+       "p256dh": "BBH78oEmdRv3lkhtTpab9HIRFdt+WX8RLTwgBKRe81Sjxav+wYSdQXfQ0gdj5PYYco8wccZag0MP4/7uTjN3UPY=",
+       "auth": "1K7XVfq4zdA12Zqfc99+TA=="
    }
 };
 
